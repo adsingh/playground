@@ -4,7 +4,7 @@
 
 Quite simply:
 
-$$(n + a)^b = \binom{n}0n^b + \binom{n}1n^{b-1}b + \cdots + \binom{n}0a^b$$
+$$(n + a)^b = \binom{b}0n^b + \binom{b}1n^{b-1}b + \cdots + \binom{b}0a^b$$
 
 The most significant term is $n^b$ and this is obviously polynomially tightly
 bound.
